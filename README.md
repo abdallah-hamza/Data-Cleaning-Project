@@ -35,6 +35,7 @@ Quantity × UnitPrice = TotalPrice
 - All records were accurate and consistent
 
 
+
 Tools Used
 - Microsoft Excel
 
